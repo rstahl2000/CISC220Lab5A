@@ -206,7 +206,6 @@ NodeT *BSTY::find(string x) {
 	}
 	else if(a->data<x){
 		a=a->right;
-		cout<<a->data<<endl;
 		while(brk){
 			if(a==NULL){
 			brk=false;
