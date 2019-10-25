@@ -1,3 +1,8 @@
+/* BSTY.cpp
+ * Sun Bilin
+ * Robert Stahl and Chris Tiso
+ * Coded Section for Lab5A
+ */
 #include "BSTY.hpp"
 #include <iostream>
 #include <string>

@@ -1,4 +1,8 @@
-
+/* Main Yahtzee.cpp
+ * Sun Bilin
+ * Robert Stahl and Chris Tiso
+ * Main for Lab5A
+ */
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
